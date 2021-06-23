@@ -6,4 +6,5 @@ A fun way to familiarize myself with PyTorch and the inner workings of its backp
     python bananagrad.py cat.jpeg banana.png vis
 
 ![Meow](https://raw.githubusercontent.com/kjmillerCURIS/bananagrad/main/bananagrad.gif)
+
 Blue bar is cat probability, yellow is progress bar. Not very stable, but you get the point...
